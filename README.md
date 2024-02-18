@@ -1,2 +1,2 @@
-# TechnoHacks
-This is where i upload all my three tasks of the internship
+# Calculator
+I developed a simple calculator app with PHP that performs basic math operations.
