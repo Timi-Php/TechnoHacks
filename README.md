@@ -1,2 +1,2 @@
-# Calculator
-I developed a simple calculator app with PHP that performs basic math operations.
+# Simple Landing Page
+i created a simple landing page
